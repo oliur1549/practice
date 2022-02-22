@@ -1,0 +1,14 @@
+let x=10;
+x +=10;
+x-=5;
+x*=10;
+x+=1;
+//x= x%5;
+let a=4*20;
+let b=10/2;
+let c=15;
+let y= (96/4);
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(y);
